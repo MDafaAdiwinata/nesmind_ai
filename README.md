@@ -4,7 +4,7 @@
 
 Nama : Muhammad Dafa Adiwinata  
 Kelas : XI Rekayasa Perangkat Lunak
-Proyek : Website Osis Smk Bina Informatika Tahun 2025 - 2026
+Proyek : Website NesMind Ai
 Sosial Media: Github(MDafaAdiwinata), Instagram(@Adzzz_21/@Adz?)
 
 ---
